@@ -36,12 +36,12 @@ This removes only the hooks and sounds installed by this package. Your other hoo
 
 | Claude Code Event   | WoW Sound              |
 |---------------------|------------------------|
-| SessionStart        | Ready Check            |
+| SessionStart        | Peasant Ready          |
 | UserPromptSubmit    | Tell Message (whisper) |
 | Notification        | Ready Check            |
 | Stop                | Level Up               |
 | SubagentStart       | Fel Saber Summon       |
-| SubagentStop        | Quest Complete         |
+| SubagentStop        | Peon Building Complete |
 | TaskCompleted       | Quest Complete         |
 | PostToolUseFailure  | Spell Holy Fizzle      |
 | PermissionRequest   | PVP Flag Taken (Horde) |
