@@ -34,19 +34,19 @@ This removes only the hooks and sounds installed by this package. Your other hoo
 
 ## Sound Events
 
-| Claude Code Event   | What plays                           |
-|---------------------|--------------------------------------|
-| SessionStart        | Session opens                        |
-| UserPromptSubmit    | You send a prompt                    |
-| Notification        | Claude sends a notification          |
-| Stop                | Generation stops                     |
-| SubagentStart       | Subagent spawned                     |
-| SubagentStop        | Subagent finishes                    |
-| TaskCompleted       | Background task completes            |
-| PostToolUseFailure  | A tool call fails                    |
-| PermissionRequest   | Awaiting your permission             |
-| PreCompact          | Context window about to compact      |
-| SessionEnd          | Session closes                       |
+| Claude Code Event   | WoW Sound              |
+|---------------------|------------------------|
+| SessionStart        | Ready Check            |
+| UserPromptSubmit    | Tell Message (whisper) |
+| Notification        | Ready Check            |
+| Stop                | Level Up               |
+| SubagentStart       | Fel Saber Summon       |
+| SubagentStop        | Quest Complete         |
+| TaskCompleted       | Quest Complete         |
+| PostToolUseFailure  | Spell Holy Fizzle      |
+| PermissionRequest   | PVP Flag Taken (Horde) |
+| PreCompact          | Alarm Clock Warning    |
+| SessionEnd          | Quest Failed           |
 
 ## Requirements
 
